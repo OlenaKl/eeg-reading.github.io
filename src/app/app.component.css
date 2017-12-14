@@ -1,7 +1,10 @@
-.eyes {
-  font-size: 80px;
+.text {
+  font-size: 14px;
+  color: black;
 }
 
+
 .blink {
-  color: red;
+  font-size: 20px;
+  color: green;
 }
